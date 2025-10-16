@@ -1,2 +1,2 @@
-# stone-maze
-my first project - a mini game
+# 石头迷阵
+华容道小游戏
